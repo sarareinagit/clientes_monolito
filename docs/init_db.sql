@@ -13,7 +13,7 @@ DROP DATABASE IF EXISTS clientes_db;
 -- 2️⃣ Crear una nueva base de datos
 CREATE DATABASE clientes_db CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 
--- 3️⃣Seleccionar la base de datos recién creada
+-- 3️⃣ Seleccionar la base de datos recién creada
 USE clientes_db;
 
 -- 4️⃣ Crear tabla 'clientes'
